@@ -1,4 +1,4 @@
-package calculadora
+package main
 
 import (
 	"bufio"
